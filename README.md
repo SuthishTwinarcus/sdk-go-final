@@ -4,4 +4,4 @@ A Go SDK for the Yonoma API.
 
 ## Installation
 ```sh
-go get github.com/YonomaHQ/yonoma-go
+go get github.com/SuthishTwinarcus/sdk-go-final
